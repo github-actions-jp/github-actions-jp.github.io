@@ -6,7 +6,7 @@ GitHub **非公認**のコミュニティなのでご注意ください。
 
 ## Slack
 
-[こちらのリンク](https://join.slack.com/t/githubactions-pvc4172/shared_invite/enQtODMwNzM5ODMwMjc4LTJiOGUzNTRkYmE4MTllNzU4N2UxNzRiN2QxMTJjZmNjYjZjYjZmNjQ3NTZkZGY2ZjFmNmZiMDY1OTJkN2FiNTg)から誰でも自由に参加できます。
+**[こちらのリンク](https://join.slack.com/t/githubactions-pvc4172/shared_invite/enQtODMwNzM5ODMwMjc4LTJiOGUzNTRkYmE4MTllNzU4N2UxNzRiN2QxMTJjZmNjYjZjYjZmNjQ3NTZkZGY2ZjFmNmZiMDY1OTJkN2FiNTg)**から誰でも自由に参加できます。
 
 （もし参加できないなどありましたら、[@miyajan](https://twitter.com/miyajan) までご連絡くださいm(_ _)m）
 
